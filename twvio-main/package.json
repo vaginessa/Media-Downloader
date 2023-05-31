@@ -16,7 +16,7 @@
         "react-download-link": "^2.3.0",
         "react-h5-audio-player": "^3.8.1",
         "react-router-dom": "^5.2.0",
-        "react-scripts": "4.0.3",
+        "react-scripts": "5.0.1",
         "react-videoplayer": "^0.6.4",
         "styled-components": "^5.3.3",
         "video-player-for-react": "^1.0.7",
